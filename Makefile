@@ -4,7 +4,7 @@
 # Config
 
 ROOT_DIR:=.
-
+DUCKDB_JSON=true
 UID=${shell id -u}
 GID=${shell id -g}
 
